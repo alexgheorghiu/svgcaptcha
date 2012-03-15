@@ -1,0 +1,45 @@
+* {
+    /*font-family: sans-serif;*/
+}
+
+body{
+    background-color: #EBEBEB;
+}
+
+h1 {
+    color: #9FB427;
+    
+}
+
+h1 #logo {
+    font-family: monospace;
+}
+
+h2 {
+    color: #333;
+    font-family: sans-serif;
+    margin: 20px 5px 5px 5px;
+}
+
+div .description {
+    margin-left: 40px;
+}
+
+#content {
+    width: 600px;
+    margin-left: auto;
+    margin-right: auto;
+    background-color: white;
+    border : 1px solid #BBB;
+    padding: 5px 20px 20px 20px;
+    -moz-border-radius: 20px;
+    -webkit-border-radius: 20px;
+    -khtml-border-radius: 20px;
+    border-radius: 20px;
+}
+
+.warning{
+    color: orangered;
+    font-weight: bold;
+}
+

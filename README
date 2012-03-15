@@ -1,0 +1,3 @@
+This document contains information about SVGCaptcha project.
+
+captcha.php - contains all that is needed to render SVG captchas
