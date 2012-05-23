@@ -33,7 +33,7 @@
             <section>
                 <h2>Download</h2>
                 <div  class="description">
-                    You can download the latest version from <a href="https://github.com/scriptoid/svgcaptcha/downloads">here</a>.
+                    You can download the latest version from <a href="https://bitbucket.org/scriptoid/svgcaptcha/downloads" target="_blank">here</a>.
                 </div>
             </section>
 
@@ -56,11 +56,19 @@
             <section>
                 <h2>Fork us</h2>
                 <div  class="description">
-                    You can <a href="https://github.com/scriptoid/svgcaptcha">fork this project</a> on Github.
+                    You can <a href="https://bitbucket.org/scriptoid/svgcaptcha" target="_blank">fork this project</a> on Bitbucket.
                 </div>
             </section>
 
         </div>
+	
+	<hr/>
+	<center>
+	<?
+        include './domains.php';
+        print_domains();
+        ?>
+        </center>
 
     </body>
 </html>
